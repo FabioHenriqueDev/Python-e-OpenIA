@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:05,760
+A jornada Full Stack da hashtag já começou, mas se você tá vendo esse vídeo agora
+
+2
+00:00:05,760 --> 00:00:10,600
+significa que ela tá rolando, então você ainda consegue aproveitar e você consegue assistir
+
+3
+00:00:10,600 --> 00:00:16,680
+as quatro aulas da jornada Full Stack que eu tô ensinando você a criar um projeto completarço
+
+4
+00:00:16,680 --> 00:00:21,959
+de ponta a ponta que é uma réplica do Spotify usando as principais tecnologias e linguagens
+
+5
+00:00:21,959 --> 00:00:27,480
+do mercado da programação atualmente quando o assunto é desenvolvimento web Full Stack.
+
+6
+00:00:27,480 --> 00:00:32,480
+Aproveita não perde tempo porque ela já começou então já deve ter uma aula ou duas aulas liberadas
+
+7
+00:00:32,480 --> 00:00:37,279
+aproveita para você ver porque daqui a pouco a gente termina a jornada Full Stack com essas
+
+8
+00:00:37,279 --> 00:00:42,200
+aulas gratuitas e muito iradas para gente criar esse projeto completarço e você adicionar no
+
+9
+00:00:42,200 --> 00:00:43,200
+seu portfólio de projetos.
+
+
